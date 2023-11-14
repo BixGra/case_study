@@ -84,6 +84,8 @@ This process continues as long as needed to reach the requested amount of time.
 
 #### 5. API
 
+*Note : the API isn't available anymore*
+
 An API is available at :
 ```
 http://sandbix.fr:1234/predict
